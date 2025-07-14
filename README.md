@@ -59,13 +59,7 @@
   <li>https://django-filter.readthedocs.io/en/stable/</li>
   <li>https://stackoverflow.com/a/36940373/7846238</li>
 </ul>
-<br>
 
-<b>🎥 Browsable API Update</b>
-<ul>
-  <li>https://stackoverflow.com/questions/11898065/how-to-disable-admin-style-browsable-interface-of-django-rest-framework</li>
-</ul>
-<br>
 
 <b>🎥 Test Driven Development</b>
 <ul>
