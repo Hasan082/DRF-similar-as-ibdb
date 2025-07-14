@@ -3,10 +3,6 @@
 <h3>📝 Reference Reading Links (Arranged According To Lectures)</h3>
 <br>
 
-<b>🎥 Understanding REST API</b>
-<ul>
-    <li>https://towardsdatascience.com/introduction-to-rest-apis-90b5d9676004</li>
-</ul>
 <br>
 
 <b>🎥 Basic Django Setup</b>
